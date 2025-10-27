@@ -1,0 +1,104 @@
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+1
+Enter name of student
+Aakash R
+Enter roll of student
+01
+Enter CGPA of student
+7/00   .00
+---------------student added----------------
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+1
+Enter name of student
+Abishek N
+Enter roll of student
+02
+Enter CGPA of student
+8.00
+---------------student added----------------
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+1
+Enter name of student
+Ajay
+Enter roll of student
+03
+Enter CGPA of student
+9.00
+---------------student added----------------
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+2
+-------------Student data------------
+Name : Aakash R
+Roll Number : 1
+CGPA : 7.0
+Name : Abishek N
+Roll Number : 2
+CGPA : 8.0
+Name : Ajay
+Roll Number : 3
+CGPA : 9.0
+---------------------------------------
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+3
+Enter Roll Number  of student
+03  3
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+2
+-------------Student data------------
+Name : Aakash R
+Roll Number : 1
+CGPA : 7.0
+Name : Abishek N
+Roll Number : 2
+CGPA : 8.0
+---------------------------------------
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+4
+Enter Roll Number  of student
+02
+Name : Abishek N
+Roll Number : 2
+CGPA : 8.0
+enter a choice
+1.Add Student
+2.display Student
+3.delete Student
+4.Search by roll number
+5.exit
+5
+-----Thank you------
